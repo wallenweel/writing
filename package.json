@@ -1,5 +1,5 @@
 {
-  "name": "wlog",
+  "name": "writing",
   "version": "0.0.1",
   "description": "This is a repository of wallen's writings.",
   "main": "index.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wallenweel/wlog.git"
+    "url": "git+https://github.com/wallenweel/writing.git"
   },
   "author": "wallen",
   "license": "BY-NC-SA",
   "bugs": {
-    "url": "https://github.com/wallenweel/wlog/issues"
+    "url": "https://github.com/wallenweel/writing/issues"
   },
-  "homepage": "https://github.com/wallenweel/wlog#readme"
+  "homepage": "https://github.com/wallenweel/writing#readme"
 }
