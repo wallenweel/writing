@@ -1,3 +1,4 @@
+dest = "book"
+base = "/book/"
 title = "文仓"
 description = ""
-dest = "book"
