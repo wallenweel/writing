@@ -4,7 +4,8 @@
   "description": "This is a repository of wallen's writings.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "book:preview": "vuepress dev original",
+    "book:html": "vuepress build original"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/wallenweel/writing/issues"
   },
-  "homepage": "https://github.com/wallenweel/writing#readme"
+  "homepage": "https://github.com/wallenweel/writing#readme",
+  "devDependencies": {
+    "vuepress": "^1.0.0-alpha.39"
+  }
 }
