@@ -1,8 +1,8 @@
 title = "文仓"
 description = ""
 
-dest = "book"
-base = "/book/"
+dest = "docs"
+base = "/"
 
 # [themeConfig]
 # sidebar = "auto"

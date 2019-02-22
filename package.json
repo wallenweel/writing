@@ -4,8 +4,8 @@
   "description": "This is a repository of wallen's writings.",
   "main": "index.js",
   "scripts": {
-    "book:preview": "vuepress dev original",
-    "book:output": "vuepress build original"
+    "preview": "vuepress dev original",
+    "output": "vuepress build original"
   },
   "repository": {
     "type": "git",
