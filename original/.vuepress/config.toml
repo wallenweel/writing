@@ -1,4 +1,10 @@
-dest = "book"
-base = "/book/"
 title = "文仓"
 description = ""
+
+dest = "book"
+base = "/book/"
+
+# [themeConfig]
+# sidebar = "auto"
+# sidebarDepth = 2
+# displayAllHeaders = true
