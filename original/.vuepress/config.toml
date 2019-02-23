@@ -4,7 +4,7 @@ description = ""
 dest = "docs"
 base = "/"
 
-# [themeConfig]
-# sidebar = "auto"
-# sidebarDepth = 2
-# displayAllHeaders = true
+[themeConfig]
+sidebar = false
+sidebarDepth = 2
+displayAllHeaders = true
