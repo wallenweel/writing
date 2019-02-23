@@ -1,9 +1,13 @@
-# 记录文字
+---
+navbar: false
+home: true
+heroText: 文仓
+tagline: 记录文字
+footer: All BY-NC-SA 4.0 Licensed | Copyright @ 2019 Wallen Weel
+---
 
-[[toc]]
+# [故事帐](/story.md)
 
-## [博客](/blog.md)
+# [博客](/blog.md)
 
-## [故事帐](/story.md)
-
-## [笔记](/note.md)
+# [笔记](/note.md)
