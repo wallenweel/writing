@@ -6,4 +6,4 @@ sidebar: false
 
 ## 小说
 
-### [我家有个黄仙儿](/notes/jdoiwo.html)
+### [我家有个黄仙儿](notes/jdoiwo.html)
