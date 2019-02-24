@@ -12,6 +12,8 @@
 
 ### 设定相关
 
+- [角色设定](settings/characters.md)
+
 ### 草稿&提纲
 
 - [场景](outlines/scenes.md)
