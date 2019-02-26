@@ -17,3 +17,5 @@ footer: All BY-NC-SA 4.0 Licensed | Copyright @ 2019 Wallen Weel
 ![博客](./pictures/entry_blog.jpg)
 
 ## [笔记](note.md)
+
+![笔记](./pictures/entry_note.jpg)
