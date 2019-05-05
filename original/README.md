@@ -3,7 +3,7 @@ navbar: false
 home: true
 heroText: 文仓
 tagline: 记录文字
-footer: All BY-NC-SA 4.0 Licensed | Copyright @ 2019 Wallen Weel
+footer: All BY-NC-SA 4.0 Licensed | Copyright @ 2019 Wallen Weel | Powered by Vuepress
 ---
 
 #

@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/wallenweel/writing#readme",
   "devDependencies": {
-    "vuepress": "^1.0.0-alpha.39"
+    "vuepress": "^1.0.0-alpha.47"
   }
 }
