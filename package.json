@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "preview": "vuepress dev original",
-    "output": "vuepress build original"
+    "build": "vuepress build original"
   },
   "repository": {
     "type": "git",
