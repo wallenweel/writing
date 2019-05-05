@@ -1,8 +1,8 @@
 title = "文仓"
 description = ""
 
-dest = "docs"
-base = "/docs/"
+dest = "v1"
+base = "/v1/"
 
 [themeConfig]
 sidebar = false
