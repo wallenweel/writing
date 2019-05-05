@@ -2,7 +2,7 @@ title = "文仓"
 description = ""
 
 dest = "docs"
-base = "/"
+base = "/docs/"
 
 [themeConfig]
 sidebar = false
