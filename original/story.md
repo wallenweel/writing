@@ -20,4 +20,6 @@
 
 ## 剧本
 
+### [升起之地](scripts/rsdlnd/SUMMARY.md)
+
 ### [拾来的家](scripts/pkfmli/SUMMARY.md)
