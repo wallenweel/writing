@@ -10,11 +10,11 @@
 
 ## 轻小说
 
-### [将来和她](light-novels/adeynq/)
+### [将来和她](novels/adeynq/)
 
-### [向着光明的魔王之路](light-novels/pvabft/)
+### [向着光明的魔王之路](novels/pvabft/)
 
-### [All Relive！异世界全复活！](light-novels/hpdyys/)
+### [All Relive！异世界全复活！](novels/hpdyys/)
 
 ## 长篇小说
 
